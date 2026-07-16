@@ -28,4 +28,4 @@ The controller implements a cascaded dual-loop PI control scheme (outer voltage 
 
 - STM32CubeIDE / STM32CubeMX
 - Altium
-- Nucleo-G491RE, custom STM32G474 boards
+- Nucleo-G474RE
