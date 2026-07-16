@@ -1,55 +1,28 @@
-# Prerequisites
-*.d
-
-# Object files
+# --- STM32CubeIDE / Eclipse build artifacts ---
+Debug/
+Release/
 *.o
-*.ko
-*.obj
+*.d
 *.elf
-
-# Linker output
-*.ilk
 *.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
+*.bin
 *.hex
-
-# Debug files
-*.dSYM/
+*.list
 *.su
-*.idb
-*.pdb
+.metadata/
+.settings/
+RTE/
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# --- STM32CubeMX generated cache (keep .ioc, ignore intermediate cache) ---
+*.ioc.bak
 
-# debug information files
-*.dwo
+# --- Altium backups (if used instead) ---
+*.PcbDoc.Bak*
+*.SchDoc.Bak*
+History/
+
+# --- OS/editor junk ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
