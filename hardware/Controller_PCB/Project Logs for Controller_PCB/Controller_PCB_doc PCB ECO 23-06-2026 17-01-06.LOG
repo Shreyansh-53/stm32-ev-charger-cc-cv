@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCU_VDDA_VREF Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=MCU_VDDA_VREF Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2

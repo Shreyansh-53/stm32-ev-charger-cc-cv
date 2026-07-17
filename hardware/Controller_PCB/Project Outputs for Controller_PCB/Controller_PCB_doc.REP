@@ -1,0 +1,396 @@
+*************************************************************
+FileName = Controller_PCB_doc.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Component Center
+      File : Controller_PCB_doc.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Controller_PCB_doc.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D13
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Controller_PCB_doc.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D13
+    D35
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Controller_PCB_doc.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D13
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Controller_PCB_doc.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D35
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Controller_PCB_doc.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+    D35
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Controller_PCB_doc.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+    D35
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Controller_PCB_doc.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Controller_PCB_doc.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Controller_PCB_doc.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Controller_PCB_doc.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Controller_PCB_doc.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Controller_PCB_doc.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Controller_PCB_doc.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D31
+    D32
+    D33
+    D41
+    D42
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Controller_PCB_doc.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D26
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Controller_PCB_doc.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Controller_PCB_doc.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Controller_PCB_doc.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Controller_PCB_doc.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D38
+    D39
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Controller_PCB_doc.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Controller_PCB_doc.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Controller_PCB_doc.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D15
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Controller_PCB_doc.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Controller_PCB_doc.GM
+
+
+Used DCodes :
+    D49
+*************************************************************
+
